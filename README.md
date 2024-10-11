@@ -6,6 +6,15 @@
 
 This project aims to develop an automated system that generates multiple-choice questions (MCQs) from PDF documents using Natural Language Processing (NLP) techniques. The tool is designed to facilitate educators and students by streamlining the question creation process from existing textual resources.
 
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dataset](#dataset)
+- [Output](#output)
+
 ## Features
 
 - **PDF Parsing**: Extracts text from PDF documents.
